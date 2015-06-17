@@ -1,0 +1,2 @@
+make 
+./hw < input.txt
