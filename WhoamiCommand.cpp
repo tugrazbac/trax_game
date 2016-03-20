@@ -2,9 +2,9 @@
 //
 // Group: Group 11591, study assistant Thomas Neff
 //
-// Authors: Benjamin Franz Herbert Rauch 1431077
-// Peter Lorenz 1114658
-// Rene Hasenburger 1432147
+// Authors: Benjamin Franz Herbert Rauch 
+// Peter Lorenz 
+// Rene Hasenburger 
 //------------------------------------------------------------------------------
 //
 
